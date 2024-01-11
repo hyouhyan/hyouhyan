@@ -1,5 +1,7 @@
+## ひょうひゃん
+
 ひょうひゃんです。  
-HipHopとVYuberのオタクです。  
+HipHopとVTuberのオタクです。  
 名古屋で大学生しながらひっそりと開発してます。
 
 # GitHub Status
