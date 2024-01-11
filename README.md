@@ -1,3 +1,7 @@
+ひょうひゃんです。  
+HipHopとVYuberのオタクです。  
+名古屋で大学生しながらひっそりと開発してます。
+
 # GitHub Status
 ## Score
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyouhyan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
