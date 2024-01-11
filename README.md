@@ -3,7 +3,7 @@
 ひょうひゃんです。  
 HipHopとVTuberのオタクです。  
 名古屋で大学生しながらひっそりと開発してます。  
-よろしければ[こちら](https://hyouhyan.com)もご覧ください。  
+よろしければ[ホームページ](https://hyouhyan.com)もご覧ください。  
 
 ### 連絡等はこちら
 - [hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.com)
