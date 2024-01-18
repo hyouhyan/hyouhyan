@@ -9,6 +9,8 @@ HipHopとVTuberのオタクです。
 - [hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.com)
 
 
+### Score
+
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyouhyan&show=reviews&rank_icon=github&show_icons=true&ring_color=6666f3&&theme=transparent&hide_border=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouhyan&layout=donut&langs_count=6&theme=transparent&hide_border=true) |
 | ------------- | ------------- |
 
