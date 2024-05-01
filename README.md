@@ -1,7 +1,7 @@
 ## ひょうひゃん
 
 ひょうひゃんです。  
-HipHopとVTuberのオタクです。  
+HipHopとReggaeとVTuberのオタクです。  
 名古屋で大学生しながら、ひっそりと開発してます。  
 よろしければ[ホームページ](https://hyouhyan.com)もご覧ください。  
 
