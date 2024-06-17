@@ -20,3 +20,5 @@ HipHopとReggaeとVTuberのオタクです。
 
 ### Topic
 - [Education Repositories](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
+- [Discord Bot](https://github.com/hyouhyan?tab=repositories&q=topic%3Adiscord-bot)
+- [GAS](https://github.com/hyouhyan?tab=repositories&q=topic%3Agas)
