@@ -19,4 +19,4 @@ HipHopとReggaeとVTuberのオタクです。
 -->
 
 ### Topic
-- [Education Repository](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
+- [Education Repositories](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
