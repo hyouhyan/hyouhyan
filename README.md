@@ -18,5 +18,5 @@ HipHopとReggaeとVTuberのオタクです。
 [![kusa evolution](https://kusa-evolution.onrender.com/evolution?username=hyouhyan&length=14)](https://github.com/SatooRu65536/kusa-evolution)
 -->
 
-大学の後輩へ
-- [授業で作ったプログラム](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
+### Topic
+- [Education Repository](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
