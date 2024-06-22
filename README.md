@@ -19,7 +19,7 @@ HipHopとReggaeとVTuberのオタクです。
 -->
 
 ### Topic
-- [Education Repositories](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation) (大学の授業で作ったプログラムたち)
+- [Education Repositories](https://github.com/hyouhyan?tab=repositories&q=topic%3Aeducation)
 - [Discord Bot](https://github.com/hyouhyan?tab=repositories&q=topic%3Adiscord-bot)
 - [Google Apps Script](https://github.com/hyouhyan?tab=repositories&q=topic%3Agas)
 - [Minecraft ResourcePack](https://github.com/hyouhyan?tab=repositories&q=topic%3Aminecraft-resourcepack)
