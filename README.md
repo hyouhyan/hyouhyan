@@ -16,7 +16,7 @@ HipHopとReggaeとVTuberのオタクです。
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=ae,arch,arduino,bash,c,cs,cpp,cloudflare,css,debian,docker,figma,firebase,git,github,go,html,idea,ai,js,java,latex,linux,matlab,nginx,nodejs,opencv,ps,php,pr,py,raspberrypi,vscode,vue,xd,ubuntu,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,arch,arduino,bash,c,cs,cpp,cloudflare,css,debian,docker,figma,flask,firebase,git,github,go,html,idea,ai,js,java,latex,linux,matlab,nginx,nodejs,opencv,ps,php,pr,py,raspberrypi,vscode,vue,xd,ubuntu,unity)](https://skillicons.dev)
 
 
 ## Topic
