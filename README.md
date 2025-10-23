@@ -14,8 +14,8 @@ HipHopとReggaeとVTuberのオタクです。
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyouhyan&show=reviews&rank_icon=github&show_icons=true&ring_color=6666f3&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouhyan&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyouhyan&theme=github&utcOffset=9)
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyouhyan&theme=github)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyouhyan&theme=transparent&utcOffset=9)
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyouhyan&theme=transparent)
 
 
 ![](https://raw.githubusercontent.com/hyouhyan/hyouhyan/output/github-contribution-grid-snake.svg)
