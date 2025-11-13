@@ -33,3 +33,15 @@ HipHopとReggaeとVTuberのオタクです。
 - [Discord Bot](https://github.com/hyouhyan?tab=repositories&q=topic%3Adiscord-bot)
 - [Google Apps Script](https://github.com/hyouhyan?tab=repositories&q=topic%3Agas)
 - [Minecraft ResourcePack](https://github.com/hyouhyan?tab=repositories&q=topic%3Aminecraft-resourcepack)
+
+<details>
+<summary>
+  scripts
+</summary>
+
+- [init-ubuntu-server.sh](https://gist.github.com/hyouhyan/fed5f55c461e105642272c33e7519550)
+  - ```
+    curl -fsSL https://gist.githubusercontent.com/hyouhyan/fed5f55c461e105642272c33e7519550/raw | sh
+    ```
+
+</details>
