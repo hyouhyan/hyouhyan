@@ -39,9 +39,9 @@ HipHopとReggaeとVTuberのオタクです。
   scripts
 </summary>
 
-- [init-ubuntu-server.sh](https://gist.github.com/hyouhyan/fed5f55c461e105642272c33e7519550)
+- [init-server.sh](https://github.com/hyouhyan/server-init)
   - ```
-    curl -fsSL https://gist.githubusercontent.com/hyouhyan/fed5f55c461e105642272c33e7519550/raw | sh
+    curl -fsSL https://raw.githubusercontent.com/hyouhyan/server-init/refs/heads/main/init.sh | sh
     ```
 
 </details>
