@@ -19,15 +19,52 @@ HipHopとReggaeとVTuberのオタクです。
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyouhyan&show=reviews&show_icons=true&ring_color=6666f3&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouhyan&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyouhyan&theme=transparent&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 
 ## Skills
-[![こどもだまし](https://skillicons.dev/icons?i=ae,arch,arduino,bash,c,cs,cpp,cloudflare,css,debian,docker,figma,flask,firebase,git,github,go,html,idea,ai,js,java,latex,linux,matlab,nginx,nodejs,opencv,ps,php,pr,py,raspberrypi,ubuntu,unity,vscode,vue,xd)](https://skillicons.dev)
+
+### DevOps / Infrastructure
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,ansible,jenkins,githubactions,prometheus,grafana,cloudflare)](https://skillicons.dev)
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,lua,php,py,bash)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,vue,nodejs)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=flask,nginx)](https://skillicons.dev)
+
+### Database
+
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase)](https://skillicons.dev)
+
+### Operating Systems
+
+[![OS](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint)](https://skillicons.dev)
+
+### Embedded / Hardware
+
+[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+### Development Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,latex)](https://skillicons.dev)
+
+### Design & Creative
+
+[![Design](https://skillicons.dev/icons?i=figma,ai,xd,ae,ps,pr,blender,autocad)](https://skillicons.dev)
+
+### Other
+
+[![Other](https://skillicons.dev/icons?i=opencv,unity,bots)](https://skillicons.dev)
 
 
 ## Topic
