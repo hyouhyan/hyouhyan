@@ -103,3 +103,5 @@ HipHopとReggaeとVTuberのオタクです。
   ```
 
 </details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6666f3,100:8b5cf6&height=120&section=footer" />
