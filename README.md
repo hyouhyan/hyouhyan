@@ -17,20 +17,38 @@
 
 </div>
 
+[![ﾍﾋﾞﾁｬﾝ](https://raw.githubusercontent.com/hyouhyan/hyouhyan/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
+### Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6666f3,100:8b5cf6&height=120&section=footer" />
+
+
 ## ひょうひゃん
 
 ひょうひゃんです。  
 HipHopとReggaeとVTuberのオタクです。  
-名古屋で大学生しながら、ひっそりと開発してます。  
+名古屋で大学院生しながら、ひっそりと開発してます。  
 よろしければ[ホームページ](https://hyouhyan.com)もご覧ください。  
 
 ### 連絡等はこちら
 - [hyouhyan@hyouhyan.com](mailto:hyouhyan@hyouhyan.com)
-
-
-## ﾍﾋﾞﾁｬﾝ
-
-[![GitHub Contribute Snake](https://raw.githubusercontent.com/hyouhyan/hyouhyan/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 
 ## Score
@@ -103,5 +121,3 @@ HipHopとReggaeとVTuberのオタクです。
   ```
 
 </details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6666f3,100:8b5cf6&height=120&section=footer" />
