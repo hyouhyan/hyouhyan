@@ -17,8 +17,6 @@
 
 </div>
 
-[![ﾍﾋﾞﾁｬﾝ](https://raw.githubusercontent.com/hyouhyan/hyouhyan/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
 ### Tech Stack
 
 <div align="center">
@@ -36,6 +34,9 @@
 
 </div>
 
+### Snake / ﾍﾋﾞﾁｬﾝ
+
+[![ﾍﾋﾞﾁｬﾝ](https://raw.githubusercontent.com/hyouhyan/hyouhyan/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6666f3,100:8b5cf6&height=120&section=footer" />
 
