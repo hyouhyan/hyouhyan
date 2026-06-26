@@ -27,6 +27,7 @@
 [<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />](https://hyouhyan.com)&nbsp;
+[<img src="https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />](https://hyouhyan.com)&nbsp;
