@@ -29,9 +29,6 @@
 [<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />](https://hyouhyan.com)&nbsp;
-[<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />](https://hyouhyan.com)&nbsp;
-[<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />](https://hyouhyan.com)&nbsp;
-[<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />](https://hyouhyan.com)&nbsp;
 [<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />](https://hyouhyan.com)
 
 </div>
