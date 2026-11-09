@@ -111,6 +111,7 @@ HipHopとReggaeとVTuberのオタクです。
 - [Discord Bot](https://github.com/hyouhyan?tab=repositories&q=topic%3Adiscord-bot)
 - [Google Apps Script](https://github.com/hyouhyan?tab=repositories&q=topic%3Agas)
 - [Minecraft ResourcePack](https://github.com/hyouhyan?tab=repositories&q=topic%3Aminecraft-resourcepack)
+- [IaC](https://github.com/hyouhyan?tab=repositories&q=topic%3Aiac)
 
 <details>
 <summary>
